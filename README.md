@@ -1,1 +1,23 @@
 # -atividade-github
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <title>Document</title>
+
+</head>
+
+<body>
+
+<h1>Título inicial</h1>
+
+<p>Novo parágrafo</p>
+
+</body>
+
+</html>
